@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I'm **Brad** — a Python enthusiast from the UK 🇬🇧, passionate about building clean, user-friendly applications. I'm currently honing my skills by developing desktop apps and Discord bots, focusing on intuitive design and modular architecture.
+Hi, I'm **Brad** — a Python enthusiast from the UK, passionate about building clean, user-friendly applications. I'm currently honing my skills by developing desktop apps and Discord bots, focusing on intuitive design and modular architecture.
 
 ---
 
