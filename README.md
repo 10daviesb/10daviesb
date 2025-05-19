@@ -6,14 +6,11 @@ Hi, I'm **Brad** — a Python enthusiast from the UK, passionate about building 
 
 ### 🛠️ Projects I'm Working On
 
-- 🗂️ **Task Manager App** – A responsive desktop app with light/dark mode, task saving, and quick task management.  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-%23121011.svg?style=flat&logo=python&logoColor=white)
-
-- 🌤️ **Weather App** – Live weather updates in a clean Tkinter GUI using the OpenWeatherMap API.  
-  ![API](https://img.shields.io/badge/API-OpenWeatherMap-blue) ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange)
-
 - 🤖 **Atlas Bot** – A modular Discord bot using Hikari & Lightbulb, designed for learning and flexibility.  
   ![Discord](https://img.shields.io/badge/Discord%20Bot-Hikari%20%2B%20Lightbulb-blueviolet) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- 🎓 **BSc in Data Science** – Currently working towards my Bachelor’s degree in Data Science, diving into statistics, machine learning, and data visualization.  
+  ![Data Science](https://img.shields.io/badge/Data%20Science-Exploration-blue) ![Learning](https://img.shields.io/badge/Learning-Continuous-brightgreen)
 
 ---
 
