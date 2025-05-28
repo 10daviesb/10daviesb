@@ -9,6 +9,9 @@ Hi, I'm **Brad** — a Python enthusiast from the UK, passionate about building 
 - 🤖 **Atlas Bot** – A modular Discord bot using Hikari & Lightbulb, designed for learning and flexibility.  
   ![Discord](https://img.shields.io/badge/Discord%20Bot-Hikari%20%2B%20Lightbulb-blueviolet) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+- ♟️ **Chess App** – A feature-rich chess application built privately, focusing on clean UI, move validation, and game analysis tools.  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-informational)
+
 - 🎓 **BSc in Data Science** – Currently working towards my Bachelor’s degree in Data Science, diving into statistics, machine learning, and data visualization.  
   ![Data Science](https://img.shields.io/badge/Data%20Science-Exploration-blue) ![Learning](https://img.shields.io/badge/Learning-Continuous-brightgreen)
 
